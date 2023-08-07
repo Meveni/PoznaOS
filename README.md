@@ -9,6 +9,7 @@ PoznaOS is a free shell for the Windows operating system, centred on a command l
 - **Languages**: Russian
 - **Platforms**: x64
 - **Licence**: CC BY-SA
+- **Unicode**: in part...
 - **State**: up to date
 ## Русский (оригинал)
 PoznaOS - это свободная оболочка операционной системы Windows, ориентированная на интерфейс командной строки.
@@ -20,4 +21,5 @@ PoznaOS - это свободная оболочка операционной с
 - **Языки**: русский
 - **Платформы**: x64
 - **Лицензия**: CC BY-SA
+- **Unicode**: частично...
 - **Состояние**: актуальное
